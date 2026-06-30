@@ -1,0 +1,43 @@
+:root {
+  --gray: hsl(0, 0%, 95%);
+  --dark-green: hsl(179, 100%, 13%);
+  --light-green: hsl(170, 76%, 41%);
+  --dark-cyan: hsl(184, 100%, 22%);
+  --light-cyan: hsl(184, 67%, 45%);
+  --dark-gold: hsl(31, 77%, 52%);
+  --light-gold: hsl(42, 100%, 73%);
+  --lexend-deca: "Lexend Deca", Helvetica, Arial, sans-serif;
+  --big-shoulders: "Big Shoulders", Helvetica, Arial, sans-serif;
+  --font-size-40: 2.5rem;
+  --font-size-15: 0.9375rem;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li {
+  margin: 0;
+}
+
+body {
+}
+
+@media screen and (width >= 75rem) {
+}
